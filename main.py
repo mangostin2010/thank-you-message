@@ -29,6 +29,18 @@ code = """
     background: #d3f4ff;
 }
 
+@media (max-width: 808px) {
+  .st-emotion-cache-gh2jqd {
+    max-width: calc(-2.5rem + 100vw);
+  }
+}
+
+@media (max-width: 50.5rem) {
+  .st-emotion-cache-13ln4jf {
+    max-width: unset
+  }
+}
+
 </style>
 """
 st.html(code)
