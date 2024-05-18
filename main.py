@@ -25,7 +25,7 @@ code = """
     border-color: rgba(49, 51, 63, 0.2);
 }
 
-.st-emotion-cache-p1gsyr {
+.st-emotion-cache-7ym5gk {
     background: #d3f4ff;
 }
 
